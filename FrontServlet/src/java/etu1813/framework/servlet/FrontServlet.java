@@ -9,7 +9,7 @@ import javax.servlet.http.HttpServletResponse;
 import etu1813.framework.servlet.Utilitaire;
 
 
-public class processServlet extends HttpServlet {
+public class FrontServlet extends HttpServlet {
 
     protected void processRequest(HttpServletRequest request, HttpServletResponse response)
             throws ServletException, IOException {
