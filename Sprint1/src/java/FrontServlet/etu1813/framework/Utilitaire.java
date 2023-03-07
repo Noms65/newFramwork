@@ -1,4 +1,4 @@
-package model;
+package FrontServlet.etu1813.framework;
 
 public class Utilitaire {
     public String getProcessUrl(String url){
